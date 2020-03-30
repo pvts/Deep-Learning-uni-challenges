@@ -6,6 +6,7 @@ Our group participated in a speech classification challenge, using single-word a
 
 # Data Description
 Speech Classification
+
 In this challenge the task is to learn to recognize which of several English words is pronounced in an audio recording. 
 The following files were provided to us: 
 1. feat.npy: anarray with Mel-frequency cepstral coeffcients extracted from each wav ﬁle. The features at index i in this array were extracted from the wav ﬁle at index i of the array in the ﬁle path.npy.

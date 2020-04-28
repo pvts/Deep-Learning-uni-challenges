@@ -1,4 +1,4 @@
-# ML-Challenge
+# ML-Speech Classification Challenge
 This code was used for the purposes of a group assignment (max 3 members) for the course in "Machine Learning" of the programme MSc Data Science at the University of Tilburg. The results of our predictions, and those of the other groups, were uploaded on Codalab. This assignment was our first attempt at ML and DL and it was submitted on **11/12/2019**, therefore it is reflective of our skills and knowledge at the time of submission.
 
 # Intro

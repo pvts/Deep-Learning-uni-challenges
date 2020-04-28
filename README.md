@@ -9,7 +9,7 @@ This code was used for the purposes of a group assignment (max 3 members) for th
 # Intro
 Our group participated in a speech classification challenge, using single-word audio files, extracted Mel-Frequency Cepstral Coefficients (MFCC) features and train labels to predict the word for each audio file in the test set. We ended up using a Convolutional Neural Network for the purposes of this challenge.                                       
 
-# Data Description
+# Dataset Description
 Speech Classification
 
 In this challenge the task is to learn to recognize which of several English words is pronounced in an audio recording. 
